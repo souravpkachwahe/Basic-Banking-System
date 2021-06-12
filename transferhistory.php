@@ -38,7 +38,7 @@
         </div>
 
     </section>
-       <div class="table-responsive-sm">
+       <div class="table-responsive-sm"><br>
     <table class="table table-hover table-striped table-condensed table-bordered">
         <thead>
             <tr>
