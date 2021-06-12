@@ -35,7 +35,7 @@
         <div class="text-box">
             <h1>LLOYD PAYMENT BANK</h1>
             <P>Easy Online Currency Transfer From Your Account</P>
-            <a href ="banking.php" class="hero-btn">Get Started"</a>
+            <a href ="banking.php" class="hero-btn">Get Started</a>
         </div>
     </section>
 
